@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,B4TV CONNECT
+http://b4tv.live/b4tv/b4tv/5.m3u8
+#EXTINF:-1 ,B4TV1
+http://b4tv.live/b4tv/b4tv/1.m3u8
+#EXTINF:-1 ,B4TV2
+http://b4tv.live/b4tv/b4tv/2.m3u8
+#EXTINF:-1 ,B4TV3
+http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:-1 ,B4TV4
+http://b4tv.live/b4tv/b4tv/4.m3u8
